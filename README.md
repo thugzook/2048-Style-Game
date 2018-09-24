@@ -1,6 +1,10 @@
 # 2048-Style-Game
 A game modeled after the famous "2048" mobile and web game created in MATLAB. Users control the board using the arrow keys and MATLAB's proficiency in arrays handles the rest.
 
+<p align="center">
+  <img src="Images/2048game.PNG"; width="400px"; height="auto"; />
+</p>
+
 ## Design Philosophy
 I started this project because I didn't know that MATLAB had the capabilities for games, even those as simple as 2048.
 For 2048, I intentionally kept the values of the tiles in an array and the UIControls that represented my tiles separately so as not to confuse the two. Therefore, all my calculations and checks for game over,
